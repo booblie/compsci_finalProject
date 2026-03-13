@@ -1,0 +1,15 @@
+user wants to make a bouquet for a love one
+flowers are associated with sentiments
+
+customize a bouquet by simply entering feelings wanted to convey
+
+
+///////sample
+Red Roses: Love
+Orange Lily: Hate
+Yellow Sunflower: Joy
+Green Hydrangea : Good Wishes
+Blue Violet: Dedecation
+Purple Orchid: Love
+White Daffodil: Death
+Pink Geranium : Friendship
